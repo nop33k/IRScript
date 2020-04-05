@@ -2,7 +2,7 @@
 
 Quick and dirty script to grab details from a system. It needs Python 3 installed to run and for running it on Windows, it requires installation of NirSoft's MyLastSearch. For Linux, no additional tools are needed.
 
-##Use case examples:
+## Use case examples:
 
 For Windows
 
